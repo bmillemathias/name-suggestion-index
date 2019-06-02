@@ -1814,6 +1814,8 @@
   "shop/clothes|Pierre Cardin": {
     "tags": {
       "brand": "Pierre Cardin",
+      "brand:wikidata": "Q22921009",
+      "brand:wikipedia": "fr:Pierre Cardin",
       "name": "Pierre Cardin",
       "shop": "clothes"
     }
