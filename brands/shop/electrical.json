@@ -7,5 +7,20 @@
       "name": "Kafkas",
       "shop": "electrical"
     }
+  },
+  "shop/electrical|Yesss": {
+    "countryCodes": [
+      "fr",
+      "it",
+      "mc",
+      "nl",
+      "uk"
+    ],
+    "tags": {
+      "brand": "Yesss",
+      "brand:wikidata": "Q91307483",
+      "name": "Yesss",
+      "shop": "electrical"
+    }
   }
 }
